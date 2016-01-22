@@ -33,7 +33,7 @@ function Word(wrd){
 	 function wordRender() {
 	 	var str = {" "};
 	 	if(var i = 0; i < lets.length; i++)
-	 	letterRender() + "str";
+	 	letterRender() + "str"; // check later, code contruction probably not right
 	 	return str;
 	 }
 } 
