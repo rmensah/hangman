@@ -1,6 +1,6 @@
 // Word Constructor
 
-var Letter = require("Letter.js");
+var Letter = require("./Letter.js");
 
 function Word(wrd){
 	 word = wrd;
@@ -36,5 +36,5 @@ function Word(wrd){
 	 	letterRender() + "str"; // check later, code contruction probably not right
 	 	return str;
 	 }
-} 
+}; 
 module.export = Word;

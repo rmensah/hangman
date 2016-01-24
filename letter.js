@@ -1,6 +1,6 @@
 // Letter Constructor
 
-module.exports = function() {
+module.export = function() {
 
 	function Letter(let) {
 		var charac = let;
